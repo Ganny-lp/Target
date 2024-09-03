@@ -44,7 +44,6 @@ def eh_fibonacci(x):
 
 ###########  Questão 4 ###########
 
-import numpy as np
 
 faturamento = {
     "SP": 67836.43,
